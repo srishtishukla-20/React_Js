@@ -1,0 +1,45 @@
+*{
+  margin:0;
+  padding: 0;
+  background-color: blanchedalmond;
+}
+
+.calci{
+  width:320px;
+  margin:100px auto;
+}
+
+.heading{
+  text-align: center;
+  align-items: center;
+  font-size: 20px;
+  margin:2rem;
+  color:#333;
+}
+
+
+#answer{
+  background-color: #e2e2e2;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  border: 3px solid #333;
+  text-align: right;
+}
+
+.button{
+  background: rgb(218, 121, 42);
+  height: 80px; 
+  width: 80px;
+  color:black;
+  font-size: 30px;
+  border: 2px solid black;
+  float:left;
+  border-radius: 50%;
+
+}
+
+.button1{
+  width:160px;
+}
